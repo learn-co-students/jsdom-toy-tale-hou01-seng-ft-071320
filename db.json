@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 2,
@@ -47,6 +47,48 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Henry",
+      "image": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "leaves",
+      "image": "https://images.pexels.com/photos/3150553/pexels-photo-3150553.jpeg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Kitty",
+      "image": "https://images.pexels.com/photos/1741205/pexels-photo-1741205.jpeg",
+      "likes": 2,
+      "id": 13
+    },
+    {
+      "name": "Sam",
+      "image": "https://images.pexels.com/photos/66258/staniel-cay-swimming-pig-seagull-fish-66258.jpeg",
+      "likes": 1,
+      "id": 14
+    },
+    {
+      "name": "more dogs",
+      "image": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg",
+      "likes": 2,
+      "id": 15
     }
   ]
 }
